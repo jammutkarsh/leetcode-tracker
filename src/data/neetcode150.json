@@ -5,9 +5,7 @@
     "slug": "contains-duplicate",
     "url": "https://leetcode.com/problems/contains-duplicate",
     "difficulty": "Easy",
-    "topics": [
-      "Arrays & Hashing"
-    ],
+    "topics": ["Arrays & Hashing"],
     "companies": [],
     "listMeta": {
       "day": 1,
@@ -22,9 +20,7 @@
     "slug": "valid-anagram",
     "url": "https://leetcode.com/problems/valid-anagram",
     "difficulty": "Easy",
-    "topics": [
-      "Arrays & Hashing"
-    ],
+    "topics": ["Arrays & Hashing"],
     "companies": [],
     "listMeta": {
       "day": 1,
@@ -39,9 +35,7 @@
     "slug": "two-sum",
     "url": "https://leetcode.com/problems/two-sum",
     "difficulty": "Easy",
-    "topics": [
-      "Arrays & Hashing"
-    ],
+    "topics": ["Arrays & Hashing"],
     "companies": [],
     "listMeta": {
       "day": 1,
@@ -56,9 +50,7 @@
     "slug": "group-anagrams",
     "url": "https://leetcode.com/problems/group-anagrams",
     "difficulty": "Medium",
-    "topics": [
-      "Arrays & Hashing"
-    ],
+    "topics": ["Arrays & Hashing"],
     "companies": [],
     "listMeta": {
       "day": 2,
@@ -73,9 +65,7 @@
     "slug": "top-k-frequent-elements",
     "url": "https://leetcode.com/problems/top-k-frequent-elements",
     "difficulty": "Medium",
-    "topics": [
-      "Arrays & Hashing"
-    ],
+    "topics": ["Arrays & Hashing"],
     "companies": [],
     "listMeta": {
       "day": 2,
@@ -90,9 +80,7 @@
     "slug": "product-of-array-except-self",
     "url": "https://leetcode.com/problems/product-of-array-except-self",
     "difficulty": "Medium",
-    "topics": [
-      "Arrays & Hashing"
-    ],
+    "topics": ["Arrays & Hashing"],
     "companies": [],
     "listMeta": {
       "day": 3,
@@ -107,9 +95,7 @@
     "slug": "valid-sudoku",
     "url": "https://leetcode.com/problems/valid-sudoku",
     "difficulty": "Medium",
-    "topics": [
-      "Arrays & Hashing"
-    ],
+    "topics": ["Arrays & Hashing"],
     "companies": [],
     "listMeta": {
       "day": 3,
@@ -124,9 +110,7 @@
     "slug": "encode-and-decode-strings",
     "url": "https://leetcode.com/problems/encode-and-decode-strings",
     "difficulty": "Medium",
-    "topics": [
-      "Arrays & Hashing"
-    ],
+    "topics": ["Arrays & Hashing"],
     "companies": [],
     "listMeta": {
       "day": 4,
@@ -141,9 +125,7 @@
     "slug": "longest-consecutive-sequence",
     "url": "https://leetcode.com/problems/longest-consecutive-sequence",
     "difficulty": "Medium",
-    "topics": [
-      "Arrays & Hashing"
-    ],
+    "topics": ["Arrays & Hashing"],
     "companies": [],
     "listMeta": {
       "day": 4,
@@ -158,9 +140,7 @@
     "slug": "valid-palindrome",
     "url": "https://leetcode.com/problems/valid-palindrome",
     "difficulty": "Easy",
-    "topics": [
-      "Two Pointers"
-    ],
+    "topics": ["Two Pointers"],
     "companies": [],
     "listMeta": {
       "day": 8,
@@ -175,9 +155,7 @@
     "slug": "two-sum-ii",
     "url": "https://leetcode.com/problems/two-sum-ii",
     "difficulty": "Medium",
-    "topics": [
-      "Two Pointers"
-    ],
+    "topics": ["Two Pointers"],
     "companies": [],
     "listMeta": {
       "day": 8,
@@ -192,9 +170,7 @@
     "slug": "3sum",
     "url": "https://leetcode.com/problems/3sum",
     "difficulty": "Medium",
-    "topics": [
-      "Two Pointers"
-    ],
+    "topics": ["Two Pointers"],
     "companies": [],
     "listMeta": {
       "day": 8,
@@ -209,9 +185,7 @@
     "slug": "container-with-most-water",
     "url": "https://leetcode.com/problems/container-with-most-water",
     "difficulty": "Medium",
-    "topics": [
-      "Two Pointers"
-    ],
+    "topics": ["Two Pointers"],
     "companies": [],
     "listMeta": {
       "day": 9,
@@ -226,9 +200,7 @@
     "slug": "trapping-rain-water",
     "url": "https://leetcode.com/problems/trapping-rain-water",
     "difficulty": "Hard",
-    "topics": [
-      "Two Pointers"
-    ],
+    "topics": ["Two Pointers"],
     "companies": [],
     "listMeta": {
       "day": 9,
@@ -243,9 +215,7 @@
     "slug": "best-time-to-buy-and-sell-stock",
     "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
     "difficulty": "Easy",
-    "topics": [
-      "Sliding Window"
-    ],
+    "topics": ["Sliding Window"],
     "companies": [],
     "listMeta": {
       "day": 15,
@@ -260,9 +230,7 @@
     "slug": "longest-substring-without-repeating-characters",
     "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
     "difficulty": "Medium",
-    "topics": [
-      "Sliding Window"
-    ],
+    "topics": ["Sliding Window"],
     "companies": [],
     "listMeta": {
       "day": 15,
@@ -277,9 +245,7 @@
     "slug": "longest-repeating-character-replacement",
     "url": "https://leetcode.com/problems/longest-repeating-character-replacement",
     "difficulty": "Medium",
-    "topics": [
-      "Sliding Window"
-    ],
+    "topics": ["Sliding Window"],
     "companies": [],
     "listMeta": {
       "day": 15,
@@ -294,9 +260,7 @@
     "slug": "permutation-in-string",
     "url": "https://leetcode.com/problems/permutation-in-string",
     "difficulty": "Medium",
-    "topics": [
-      "Sliding Window"
-    ],
+    "topics": ["Sliding Window"],
     "companies": [],
     "listMeta": {
       "day": 16,
@@ -311,9 +275,7 @@
     "slug": "minimum-window-substring",
     "url": "https://leetcode.com/problems/minimum-window-substring",
     "difficulty": "Hard",
-    "topics": [
-      "Sliding Window"
-    ],
+    "topics": ["Sliding Window"],
     "companies": [],
     "listMeta": {
       "day": 16,
@@ -328,9 +290,7 @@
     "slug": "sliding-window-maximum",
     "url": "https://leetcode.com/problems/sliding-window-maximum",
     "difficulty": "Hard",
-    "topics": [
-      "Sliding Window"
-    ],
+    "topics": ["Sliding Window"],
     "companies": [],
     "listMeta": {
       "day": 17,
@@ -345,9 +305,7 @@
     "slug": "valid-parentheses",
     "url": "https://leetcode.com/problems/valid-parentheses",
     "difficulty": "Easy",
-    "topics": [
-      "Stack"
-    ],
+    "topics": ["Stack"],
     "companies": [],
     "listMeta": {
       "day": 22,
@@ -362,9 +320,7 @@
     "slug": "min-stack",
     "url": "https://leetcode.com/problems/min-stack",
     "difficulty": "Medium",
-    "topics": [
-      "Stack"
-    ],
+    "topics": ["Stack"],
     "companies": [],
     "listMeta": {
       "day": 22,
@@ -379,9 +335,7 @@
     "slug": "evaluate-reverse-polish-notation",
     "url": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
     "difficulty": "Medium",
-    "topics": [
-      "Stack"
-    ],
+    "topics": ["Stack"],
     "companies": [],
     "listMeta": {
       "day": 22,
@@ -396,9 +350,7 @@
     "slug": "generate-parentheses",
     "url": "https://leetcode.com/problems/generate-parentheses",
     "difficulty": "Medium",
-    "topics": [
-      "Stack"
-    ],
+    "topics": ["Stack"],
     "companies": [],
     "listMeta": {
       "day": 23,
@@ -413,9 +365,7 @@
     "slug": "daily-temperatures",
     "url": "https://leetcode.com/problems/daily-temperatures",
     "difficulty": "Medium",
-    "topics": [
-      "Stack"
-    ],
+    "topics": ["Stack"],
     "companies": [],
     "listMeta": {
       "day": 23,
@@ -430,9 +380,7 @@
     "slug": "car-fleet",
     "url": "https://leetcode.com/problems/car-fleet",
     "difficulty": "Medium",
-    "topics": [
-      "Stack"
-    ],
+    "topics": ["Stack"],
     "companies": [],
     "listMeta": {
       "day": 24,
@@ -447,9 +395,7 @@
     "slug": "largest-rectangle-in-histogram",
     "url": "https://leetcode.com/problems/largest-rectangle-in-histogram",
     "difficulty": "Hard",
-    "topics": [
-      "Stack"
-    ],
+    "topics": ["Stack"],
     "companies": [],
     "listMeta": {
       "day": 24,
@@ -464,9 +410,7 @@
     "slug": "binary-search",
     "url": "https://leetcode.com/problems/binary-search",
     "difficulty": "Easy",
-    "topics": [
-      "Binary Search"
-    ],
+    "topics": ["Binary Search"],
     "companies": [],
     "listMeta": {
       "day": 29,
@@ -481,9 +425,7 @@
     "slug": "search-a-2d-matrix",
     "url": "https://leetcode.com/problems/search-a-2d-matrix",
     "difficulty": "Medium",
-    "topics": [
-      "Binary Search"
-    ],
+    "topics": ["Binary Search"],
     "companies": [],
     "listMeta": {
       "day": 29,
@@ -498,9 +440,7 @@
     "slug": "koko-eating-bananas",
     "url": "https://leetcode.com/problems/koko-eating-bananas",
     "difficulty": "Medium",
-    "topics": [
-      "Binary Search"
-    ],
+    "topics": ["Binary Search"],
     "companies": [],
     "listMeta": {
       "day": 29,
@@ -515,9 +455,7 @@
     "slug": "find-minimum-in-rotated-sorted-array",
     "url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array",
     "difficulty": "Medium",
-    "topics": [
-      "Binary Search"
-    ],
+    "topics": ["Binary Search"],
     "companies": [],
     "listMeta": {
       "day": 30,
@@ -532,9 +470,7 @@
     "slug": "search-in-rotated-sorted-array",
     "url": "https://leetcode.com/problems/search-in-rotated-sorted-array",
     "difficulty": "Medium",
-    "topics": [
-      "Binary Search"
-    ],
+    "topics": ["Binary Search"],
     "companies": [],
     "listMeta": {
       "day": 30,
@@ -549,9 +485,7 @@
     "slug": "time-based-key-value-store",
     "url": "https://leetcode.com/problems/time-based-key-value-store",
     "difficulty": "Medium",
-    "topics": [
-      "Binary Search"
-    ],
+    "topics": ["Binary Search"],
     "companies": [],
     "listMeta": {
       "day": 31,
@@ -566,9 +500,7 @@
     "slug": "median-of-two-sorted-arrays",
     "url": "https://leetcode.com/problems/median-of-two-sorted-arrays",
     "difficulty": "Hard",
-    "topics": [
-      "Binary Search"
-    ],
+    "topics": ["Binary Search"],
     "companies": [],
     "listMeta": {
       "day": 31,
@@ -583,9 +515,7 @@
     "slug": "reverse-linked-list",
     "url": "https://leetcode.com/problems/reverse-linked-list",
     "difficulty": "Easy",
-    "topics": [
-      "Linked Lists"
-    ],
+    "topics": ["Linked Lists"],
     "companies": [],
     "listMeta": {
       "day": 36,
@@ -600,9 +530,7 @@
     "slug": "merge-two-sorted-lists",
     "url": "https://leetcode.com/problems/merge-two-sorted-lists",
     "difficulty": "Easy",
-    "topics": [
-      "Linked Lists"
-    ],
+    "topics": ["Linked Lists"],
     "companies": [],
     "listMeta": {
       "day": 36,
@@ -617,9 +545,7 @@
     "slug": "reorder-list",
     "url": "https://leetcode.com/problems/reorder-list",
     "difficulty": "Medium",
-    "topics": [
-      "Linked Lists"
-    ],
+    "topics": ["Linked Lists"],
     "companies": [],
     "listMeta": {
       "day": 36,
@@ -634,9 +560,7 @@
     "slug": "remove-nth-node-from-end-of-list",
     "url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
     "difficulty": "Medium",
-    "topics": [
-      "Linked Lists"
-    ],
+    "topics": ["Linked Lists"],
     "companies": [],
     "listMeta": {
       "day": 37,
@@ -651,9 +575,7 @@
     "slug": "copy-list-with-random-pointer",
     "url": "https://leetcode.com/problems/copy-list-with-random-pointer",
     "difficulty": "Medium",
-    "topics": [
-      "Linked Lists"
-    ],
+    "topics": ["Linked Lists"],
     "companies": [],
     "listMeta": {
       "day": 37,
@@ -668,9 +590,7 @@
     "slug": "add-two-numbers",
     "url": "https://leetcode.com/problems/add-two-numbers",
     "difficulty": "Medium",
-    "topics": [
-      "Linked Lists"
-    ],
+    "topics": ["Linked Lists"],
     "companies": [],
     "listMeta": {
       "day": 38,
@@ -685,9 +605,7 @@
     "slug": "linked-list-cycle",
     "url": "https://leetcode.com/problems/linked-list-cycle",
     "difficulty": "Easy",
-    "topics": [
-      "Linked Lists"
-    ],
+    "topics": ["Linked Lists"],
     "companies": [],
     "listMeta": {
       "day": 38,
@@ -702,9 +620,7 @@
     "slug": "find-the-duplicate-number",
     "url": "https://leetcode.com/problems/find-the-duplicate-number",
     "difficulty": "Medium",
-    "topics": [
-      "Linked Lists"
-    ],
+    "topics": ["Linked Lists"],
     "companies": [],
     "listMeta": {
       "day": 39,
@@ -719,9 +635,7 @@
     "slug": "lru-cache",
     "url": "https://leetcode.com/problems/lru-cache",
     "difficulty": "Medium",
-    "topics": [
-      "Linked Lists"
-    ],
+    "topics": ["Linked Lists"],
     "companies": [],
     "listMeta": {
       "day": 39,
@@ -736,9 +650,7 @@
     "slug": "merge-k-sorted-lists",
     "url": "https://leetcode.com/problems/merge-k-sorted-lists",
     "difficulty": "Hard",
-    "topics": [
-      "Linked Lists"
-    ],
+    "topics": ["Linked Lists"],
     "companies": [],
     "listMeta": {
       "day": 40,
@@ -753,9 +665,7 @@
     "slug": "reverse-nodes-in-k-group",
     "url": "https://leetcode.com/problems/reverse-nodes-in-k-group",
     "difficulty": "Hard",
-    "topics": [
-      "Linked Lists"
-    ],
+    "topics": ["Linked Lists"],
     "companies": [],
     "listMeta": {
       "day": 40,
@@ -770,9 +680,7 @@
     "slug": "invert-binary-tree",
     "url": "https://leetcode.com/problems/invert-binary-tree",
     "difficulty": "Easy",
-    "topics": [
-      "Trees"
-    ],
+    "topics": ["Trees"],
     "companies": [],
     "listMeta": {
       "day": 43,
@@ -787,9 +695,7 @@
     "slug": "maximum-depth-of-binary-tree",
     "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree",
     "difficulty": "Easy",
-    "topics": [
-      "Trees"
-    ],
+    "topics": ["Trees"],
     "companies": [],
     "listMeta": {
       "day": 43,
@@ -804,9 +710,7 @@
     "slug": "diameter-of-binary-tree",
     "url": "https://leetcode.com/problems/diameter-of-binary-tree",
     "difficulty": "Easy",
-    "topics": [
-      "Trees"
-    ],
+    "topics": ["Trees"],
     "companies": [],
     "listMeta": {
       "day": 43,
@@ -821,9 +725,7 @@
     "slug": "balanced-binary-tree",
     "url": "https://leetcode.com/problems/balanced-binary-tree",
     "difficulty": "Easy",
-    "topics": [
-      "Trees"
-    ],
+    "topics": ["Trees"],
     "companies": [],
     "listMeta": {
       "day": 44,
@@ -838,9 +740,7 @@
     "slug": "same-tree",
     "url": "https://leetcode.com/problems/same-tree",
     "difficulty": "Easy",
-    "topics": [
-      "Trees"
-    ],
+    "topics": ["Trees"],
     "companies": [],
     "listMeta": {
       "day": 44,
@@ -855,9 +755,7 @@
     "slug": "subtree-of-another-tree",
     "url": "https://leetcode.com/problems/subtree-of-another-tree",
     "difficulty": "Easy",
-    "topics": [
-      "Trees"
-    ],
+    "topics": ["Trees"],
     "companies": [],
     "listMeta": {
       "day": 44,
@@ -872,9 +770,7 @@
     "slug": "lowest-common-ancestor-of-a-bst",
     "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-bst",
     "difficulty": "Medium",
-    "topics": [
-      "Trees"
-    ],
+    "topics": ["Trees"],
     "companies": [],
     "listMeta": {
       "day": 45,
@@ -889,9 +785,7 @@
     "slug": "binary-tree-level-order-traversal",
     "url": "https://leetcode.com/problems/binary-tree-level-order-traversal",
     "difficulty": "Medium",
-    "topics": [
-      "Trees"
-    ],
+    "topics": ["Trees"],
     "companies": [],
     "listMeta": {
       "day": 45,
@@ -906,9 +800,7 @@
     "slug": "binary-tree-right-side-view",
     "url": "https://leetcode.com/problems/binary-tree-right-side-view",
     "difficulty": "Medium",
-    "topics": [
-      "Trees"
-    ],
+    "topics": ["Trees"],
     "companies": [],
     "listMeta": {
       "day": 46,
@@ -923,9 +815,7 @@
     "slug": "count-good-nodes-in-binary-tree",
     "url": "https://leetcode.com/problems/count-good-nodes-in-binary-tree",
     "difficulty": "Medium",
-    "topics": [
-      "Trees"
-    ],
+    "topics": ["Trees"],
     "companies": [],
     "listMeta": {
       "day": 46,
@@ -940,9 +830,7 @@
     "slug": "validate-binary-search-tree",
     "url": "https://leetcode.com/problems/validate-binary-search-tree",
     "difficulty": "Medium",
-    "topics": [
-      "Trees"
-    ],
+    "topics": ["Trees"],
     "companies": [],
     "listMeta": {
       "day": 47,
@@ -957,9 +845,7 @@
     "slug": "kth-smallest-element-in-a-bst",
     "url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst",
     "difficulty": "Medium",
-    "topics": [
-      "Trees"
-    ],
+    "topics": ["Trees"],
     "companies": [],
     "listMeta": {
       "day": 47,
@@ -974,9 +860,7 @@
     "slug": "construct-binary-tree-from-preorder-and-inorder",
     "url": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder",
     "difficulty": "Medium",
-    "topics": [
-      "Trees"
-    ],
+    "topics": ["Trees"],
     "companies": [],
     "listMeta": {
       "day": 48,
@@ -991,9 +875,7 @@
     "slug": "binary-tree-maximum-path-sum",
     "url": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
     "difficulty": "Hard",
-    "topics": [
-      "Trees"
-    ],
+    "topics": ["Trees"],
     "companies": [],
     "listMeta": {
       "day": 48,
@@ -1008,9 +890,7 @@
     "slug": "serialize-and-deserialize-binary-tree",
     "url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
     "difficulty": "Hard",
-    "topics": [
-      "Trees"
-    ],
+    "topics": ["Trees"],
     "companies": [],
     "listMeta": {
       "day": 49,
@@ -1025,9 +905,7 @@
     "slug": "implement-trie",
     "url": "https://leetcode.com/problems/implement-trie",
     "difficulty": "Medium",
-    "topics": [
-      "Tries"
-    ],
+    "topics": ["Tries"],
     "companies": [],
     "listMeta": {
       "day": 50,
@@ -1042,9 +920,7 @@
     "slug": "design-add-and-search-words-data-structure",
     "url": "https://leetcode.com/problems/design-add-and-search-words-data-structure",
     "difficulty": "Medium",
-    "topics": [
-      "Tries"
-    ],
+    "topics": ["Tries"],
     "companies": [],
     "listMeta": {
       "day": 50,
@@ -1059,9 +935,7 @@
     "slug": "word-search-ii",
     "url": "https://leetcode.com/problems/word-search-ii",
     "difficulty": "Hard",
-    "topics": [
-      "Tries"
-    ],
+    "topics": ["Tries"],
     "companies": [],
     "listMeta": {
       "day": 50,
@@ -1076,9 +950,7 @@
     "slug": "kth-largest-element-in-a-stream",
     "url": "https://leetcode.com/problems/kth-largest-element-in-a-stream",
     "difficulty": "Easy",
-    "topics": [
-      "Heap/Priority Queue"
-    ],
+    "topics": ["Heap/Priority Queue"],
     "companies": [],
     "listMeta": {
       "day": 51,
@@ -1093,9 +965,7 @@
     "slug": "last-stone-weight",
     "url": "https://leetcode.com/problems/last-stone-weight",
     "difficulty": "Easy",
-    "topics": [
-      "Heap/Priority Queue"
-    ],
+    "topics": ["Heap/Priority Queue"],
     "companies": [],
     "listMeta": {
       "day": 51,
@@ -1110,9 +980,7 @@
     "slug": "k-closest-points-to-origin",
     "url": "https://leetcode.com/problems/k-closest-points-to-origin",
     "difficulty": "Medium",
-    "topics": [
-      "Heap/Priority Queue"
-    ],
+    "topics": ["Heap/Priority Queue"],
     "companies": [],
     "listMeta": {
       "day": 51,
@@ -1127,9 +995,7 @@
     "slug": "kth-largest-element-in-an-array",
     "url": "https://leetcode.com/problems/kth-largest-element-in-an-array",
     "difficulty": "Medium",
-    "topics": [
-      "Heap/Priority Queue"
-    ],
+    "topics": ["Heap/Priority Queue"],
     "companies": [],
     "listMeta": {
       "day": 52,
@@ -1144,9 +1010,7 @@
     "slug": "task-scheduler",
     "url": "https://leetcode.com/problems/task-scheduler",
     "difficulty": "Medium",
-    "topics": [
-      "Heap/Priority Queue"
-    ],
+    "topics": ["Heap/Priority Queue"],
     "companies": [],
     "listMeta": {
       "day": 52,
@@ -1161,9 +1025,7 @@
     "slug": "design-twitter",
     "url": "https://leetcode.com/problems/design-twitter",
     "difficulty": "Medium",
-    "topics": [
-      "Heap/Priority Queue"
-    ],
+    "topics": ["Heap/Priority Queue"],
     "companies": [],
     "listMeta": {
       "day": 53,
@@ -1178,9 +1040,7 @@
     "slug": "find-median-from-data-stream",
     "url": "https://leetcode.com/problems/find-median-from-data-stream",
     "difficulty": "Hard",
-    "topics": [
-      "Heap/Priority Queue"
-    ],
+    "topics": ["Heap/Priority Queue"],
     "companies": [],
     "listMeta": {
       "day": 53,
@@ -1195,9 +1055,7 @@
     "slug": "subsets",
     "url": "https://leetcode.com/problems/subsets",
     "difficulty": "Medium",
-    "topics": [
-      "Backtracking"
-    ],
+    "topics": ["Backtracking"],
     "companies": [],
     "listMeta": {
       "day": 57,
@@ -1212,9 +1070,7 @@
     "slug": "combination-sum",
     "url": "https://leetcode.com/problems/combination-sum",
     "difficulty": "Medium",
-    "topics": [
-      "Backtracking"
-    ],
+    "topics": ["Backtracking"],
     "companies": [],
     "listMeta": {
       "day": 57,
@@ -1229,9 +1085,7 @@
     "slug": "permutations",
     "url": "https://leetcode.com/problems/permutations",
     "difficulty": "Medium",
-    "topics": [
-      "Backtracking"
-    ],
+    "topics": ["Backtracking"],
     "companies": [],
     "listMeta": {
       "day": 57,
@@ -1246,9 +1100,7 @@
     "slug": "subsets-ii",
     "url": "https://leetcode.com/problems/subsets-ii",
     "difficulty": "Medium",
-    "topics": [
-      "Backtracking"
-    ],
+    "topics": ["Backtracking"],
     "companies": [],
     "listMeta": {
       "day": 58,
@@ -1263,9 +1115,7 @@
     "slug": "combination-sum-ii",
     "url": "https://leetcode.com/problems/combination-sum-ii",
     "difficulty": "Medium",
-    "topics": [
-      "Backtracking"
-    ],
+    "topics": ["Backtracking"],
     "companies": [],
     "listMeta": {
       "day": 58,
@@ -1280,9 +1130,7 @@
     "slug": "word-search",
     "url": "https://leetcode.com/problems/word-search",
     "difficulty": "Medium",
-    "topics": [
-      "Backtracking"
-    ],
+    "topics": ["Backtracking"],
     "companies": [],
     "listMeta": {
       "day": 59,
@@ -1297,9 +1145,7 @@
     "slug": "palindrome-partitioning",
     "url": "https://leetcode.com/problems/palindrome-partitioning",
     "difficulty": "Medium",
-    "topics": [
-      "Backtracking"
-    ],
+    "topics": ["Backtracking"],
     "companies": [],
     "listMeta": {
       "day": 59,
@@ -1314,9 +1160,7 @@
     "slug": "letter-combinations-of-a-phone-number",
     "url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
     "difficulty": "Medium",
-    "topics": [
-      "Backtracking"
-    ],
+    "topics": ["Backtracking"],
     "companies": [],
     "listMeta": {
       "day": 60,
@@ -1331,9 +1175,7 @@
     "slug": "n-queens",
     "url": "https://leetcode.com/problems/n-queens",
     "difficulty": "Hard",
-    "topics": [
-      "Backtracking"
-    ],
+    "topics": ["Backtracking"],
     "companies": [],
     "listMeta": {
       "day": 60,
@@ -1348,9 +1190,7 @@
     "slug": "number-of-islands",
     "url": "https://leetcode.com/problems/number-of-islands",
     "difficulty": "Medium",
-    "topics": [
-      "Graphs"
-    ],
+    "topics": ["Graphs"],
     "companies": [],
     "listMeta": {
       "day": 64,
@@ -1365,9 +1205,7 @@
     "slug": "max-area-of-island",
     "url": "https://leetcode.com/problems/max-area-of-island",
     "difficulty": "Medium",
-    "topics": [
-      "Graphs"
-    ],
+    "topics": ["Graphs"],
     "companies": [],
     "listMeta": {
       "day": 64,
@@ -1382,9 +1220,7 @@
     "slug": "clone-graph",
     "url": "https://leetcode.com/problems/clone-graph",
     "difficulty": "Medium",
-    "topics": [
-      "Graphs"
-    ],
+    "topics": ["Graphs"],
     "companies": [],
     "listMeta": {
       "day": 64,
@@ -1399,9 +1235,7 @@
     "slug": "walls-and-gates",
     "url": "https://leetcode.com/problems/walls-and-gates",
     "difficulty": "Medium",
-    "topics": [
-      "Graphs"
-    ],
+    "topics": ["Graphs"],
     "companies": [],
     "listMeta": {
       "day": 66,
@@ -1416,9 +1250,7 @@
     "slug": "rotting-oranges",
     "url": "https://leetcode.com/problems/rotting-oranges",
     "difficulty": "Medium",
-    "topics": [
-      "Graphs"
-    ],
+    "topics": ["Graphs"],
     "companies": [],
     "listMeta": {
       "day": 66,
@@ -1433,9 +1265,7 @@
     "slug": "pacific-atlantic-water-flow",
     "url": "https://leetcode.com/problems/pacific-atlantic-water-flow",
     "difficulty": "Medium",
-    "topics": [
-      "Graphs"
-    ],
+    "topics": ["Graphs"],
     "companies": [],
     "listMeta": {
       "day": 65,
@@ -1450,9 +1280,7 @@
     "slug": "surrounded-regions",
     "url": "https://leetcode.com/problems/surrounded-regions",
     "difficulty": "Medium",
-    "topics": [
-      "Graphs"
-    ],
+    "topics": ["Graphs"],
     "companies": [],
     "listMeta": {
       "day": 65,
@@ -1467,9 +1295,7 @@
     "slug": "course-schedule",
     "url": "https://leetcode.com/problems/course-schedule",
     "difficulty": "Medium",
-    "topics": [
-      "Graphs"
-    ],
+    "topics": ["Graphs"],
     "companies": [],
     "listMeta": {
       "day": 67,
@@ -1484,9 +1310,7 @@
     "slug": "course-schedule-ii",
     "url": "https://leetcode.com/problems/course-schedule-ii",
     "difficulty": "Medium",
-    "topics": [
-      "Graphs"
-    ],
+    "topics": ["Graphs"],
     "companies": [],
     "listMeta": {
       "day": 67,
@@ -1501,9 +1325,7 @@
     "slug": "graph-valid-tree",
     "url": "https://leetcode.com/problems/graph-valid-tree",
     "difficulty": "Medium",
-    "topics": [
-      "Graphs"
-    ],
+    "topics": ["Graphs"],
     "companies": [],
     "listMeta": {
       "day": 68,
@@ -1518,9 +1340,7 @@
     "slug": "number-of-connected-components-in-an-undirected-graph",
     "url": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph",
     "difficulty": "Medium",
-    "topics": [
-      "Graphs"
-    ],
+    "topics": ["Graphs"],
     "companies": [],
     "listMeta": {
       "day": 68,
@@ -1535,9 +1355,7 @@
     "slug": "redundant-connection",
     "url": "https://leetcode.com/problems/redundant-connection",
     "difficulty": "Medium",
-    "topics": [
-      "Graphs"
-    ],
+    "topics": ["Graphs"],
     "companies": [],
     "listMeta": {
       "day": 68,
@@ -1552,9 +1370,7 @@
     "slug": "word-ladder",
     "url": "https://leetcode.com/problems/word-ladder",
     "difficulty": "Hard",
-    "topics": [
-      "Graphs"
-    ],
+    "topics": ["Graphs"],
     "companies": [],
     "listMeta": {
       "day": 69,
@@ -1569,9 +1385,7 @@
     "slug": "network-delay-time",
     "url": "https://leetcode.com/problems/network-delay-time",
     "difficulty": "Medium",
-    "topics": [
-      "Advanced Graphs"
-    ],
+    "topics": ["Advanced Graphs"],
     "companies": [],
     "listMeta": {
       "day": 72,
@@ -1586,9 +1400,7 @@
     "slug": "reconstruct-itinerary",
     "url": "https://leetcode.com/problems/reconstruct-itinerary",
     "difficulty": "Hard",
-    "topics": [
-      "Advanced Graphs"
-    ],
+    "topics": ["Advanced Graphs"],
     "companies": [],
     "listMeta": {
       "day": 71,
@@ -1603,9 +1415,7 @@
     "slug": "min-cost-to-connect-all-points",
     "url": "https://leetcode.com/problems/min-cost-to-connect-all-points",
     "difficulty": "Medium",
-    "topics": [
-      "Advanced Graphs"
-    ],
+    "topics": ["Advanced Graphs"],
     "companies": [],
     "listMeta": {
       "day": 71,
@@ -1620,9 +1430,7 @@
     "slug": "swim-in-rising-water",
     "url": "https://leetcode.com/problems/swim-in-rising-water",
     "difficulty": "Hard",
-    "topics": [
-      "Advanced Graphs"
-    ],
+    "topics": ["Advanced Graphs"],
     "companies": [],
     "listMeta": {
       "day": 72,
@@ -1637,9 +1445,7 @@
     "slug": "alien-dictionary",
     "url": "https://leetcode.com/problems/alien-dictionary",
     "difficulty": "Hard",
-    "topics": [
-      "Advanced Graphs"
-    ],
+    "topics": ["Advanced Graphs"],
     "companies": [],
     "listMeta": {
       "day": 73,
@@ -1654,9 +1460,7 @@
     "slug": "cheapest-flights-within-k-stops",
     "url": "https://leetcode.com/problems/cheapest-flights-within-k-stops",
     "difficulty": "Medium",
-    "topics": [
-      "Advanced Graphs"
-    ],
+    "topics": ["Advanced Graphs"],
     "companies": [],
     "listMeta": {
       "day": 73,
@@ -1671,9 +1475,7 @@
     "slug": "climbing-stairs",
     "url": "https://leetcode.com/problems/climbing-stairs",
     "difficulty": "Easy",
-    "topics": [
-      "1-D DP"
-    ],
+    "topics": ["1-D DP"],
     "companies": [],
     "listMeta": {
       "day": 78,
@@ -1688,9 +1490,7 @@
     "slug": "min-cost-climbing-stairs",
     "url": "https://leetcode.com/problems/min-cost-climbing-stairs",
     "difficulty": "Easy",
-    "topics": [
-      "1-D DP"
-    ],
+    "topics": ["1-D DP"],
     "companies": [],
     "listMeta": {
       "day": 78,
@@ -1705,9 +1505,7 @@
     "slug": "house-robber",
     "url": "https://leetcode.com/problems/house-robber",
     "difficulty": "Medium",
-    "topics": [
-      "1-D DP"
-    ],
+    "topics": ["1-D DP"],
     "companies": [],
     "listMeta": {
       "day": 78,
@@ -1722,9 +1520,7 @@
     "slug": "house-robber-ii",
     "url": "https://leetcode.com/problems/house-robber-ii",
     "difficulty": "Medium",
-    "topics": [
-      "1-D DP"
-    ],
+    "topics": ["1-D DP"],
     "companies": [],
     "listMeta": {
       "day": 79,
@@ -1739,9 +1535,7 @@
     "slug": "longest-palindromic-substring",
     "url": "https://leetcode.com/problems/longest-palindromic-substring",
     "difficulty": "Medium",
-    "topics": [
-      "1-D DP"
-    ],
+    "topics": ["1-D DP"],
     "companies": [],
     "listMeta": {
       "day": 79,
@@ -1756,9 +1550,7 @@
     "slug": "palindromic-substrings",
     "url": "https://leetcode.com/problems/palindromic-substrings",
     "difficulty": "Medium",
-    "topics": [
-      "1-D DP"
-    ],
+    "topics": ["1-D DP"],
     "companies": [],
     "listMeta": {
       "day": 80,
@@ -1773,9 +1565,7 @@
     "slug": "decode-ways",
     "url": "https://leetcode.com/problems/decode-ways",
     "difficulty": "Medium",
-    "topics": [
-      "1-D DP"
-    ],
+    "topics": ["1-D DP"],
     "companies": [],
     "listMeta": {
       "day": 80,
@@ -1790,9 +1580,7 @@
     "slug": "coin-change",
     "url": "https://leetcode.com/problems/coin-change",
     "difficulty": "Medium",
-    "topics": [
-      "1-D DP"
-    ],
+    "topics": ["1-D DP"],
     "companies": [],
     "listMeta": {
       "day": 81,
@@ -1807,9 +1595,7 @@
     "slug": "maximum-product-subarray",
     "url": "https://leetcode.com/problems/maximum-product-subarray",
     "difficulty": "Medium",
-    "topics": [
-      "1-D DP"
-    ],
+    "topics": ["1-D DP"],
     "companies": [],
     "listMeta": {
       "day": 81,
@@ -1824,9 +1610,7 @@
     "slug": "word-break",
     "url": "https://leetcode.com/problems/word-break",
     "difficulty": "Medium",
-    "topics": [
-      "1-D DP"
-    ],
+    "topics": ["1-D DP"],
     "companies": [],
     "listMeta": {
       "day": 82,
@@ -1841,9 +1625,7 @@
     "slug": "longest-increasing-subsequence",
     "url": "https://leetcode.com/problems/longest-increasing-subsequence",
     "difficulty": "Medium",
-    "topics": [
-      "1-D DP"
-    ],
+    "topics": ["1-D DP"],
     "companies": [],
     "listMeta": {
       "day": 82,
@@ -1858,9 +1640,7 @@
     "slug": "partition-equal-subset-sum",
     "url": "https://leetcode.com/problems/partition-equal-subset-sum",
     "difficulty": "Medium",
-    "topics": [
-      "1-D DP"
-    ],
+    "topics": ["1-D DP"],
     "companies": [],
     "listMeta": {
       "day": 83,
@@ -1875,9 +1655,7 @@
     "slug": "unique-paths",
     "url": "https://leetcode.com/problems/unique-paths",
     "difficulty": "Medium",
-    "topics": [
-      "2-D DP"
-    ],
+    "topics": ["2-D DP"],
     "companies": [],
     "listMeta": {
       "day": 85,
@@ -1892,9 +1670,7 @@
     "slug": "longest-common-subsequence",
     "url": "https://leetcode.com/problems/longest-common-subsequence",
     "difficulty": "Medium",
-    "topics": [
-      "2-D DP"
-    ],
+    "topics": ["2-D DP"],
     "companies": [],
     "listMeta": {
       "day": 85,
@@ -1909,9 +1685,7 @@
     "slug": "best-time-to-buy-and-sell-stock-with-cooldown",
     "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown",
     "difficulty": "Medium",
-    "topics": [
-      "2-D DP"
-    ],
+    "topics": ["2-D DP"],
     "companies": [],
     "listMeta": {
       "day": 86,
@@ -1926,9 +1700,7 @@
     "slug": "coin-change-ii",
     "url": "https://leetcode.com/problems/coin-change-ii",
     "difficulty": "Medium",
-    "topics": [
-      "2-D DP"
-    ],
+    "topics": ["2-D DP"],
     "companies": [],
     "listMeta": {
       "day": 86,
@@ -1943,9 +1715,7 @@
     "slug": "target-sum",
     "url": "https://leetcode.com/problems/target-sum",
     "difficulty": "Medium",
-    "topics": [
-      "2-D DP"
-    ],
+    "topics": ["2-D DP"],
     "companies": [],
     "listMeta": {
       "day": 87,
@@ -1960,9 +1730,7 @@
     "slug": "interleaving-string",
     "url": "https://leetcode.com/problems/interleaving-string",
     "difficulty": "Medium",
-    "topics": [
-      "2-D DP"
-    ],
+    "topics": ["2-D DP"],
     "companies": [],
     "listMeta": {
       "day": 87,
@@ -1977,9 +1745,7 @@
     "slug": "longest-increasing-path-in-a-matrix",
     "url": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix",
     "difficulty": "Hard",
-    "topics": [
-      "2-D DP"
-    ],
+    "topics": ["2-D DP"],
     "companies": [],
     "listMeta": {
       "day": 88,
@@ -1994,9 +1760,7 @@
     "slug": "distinct-subsequences",
     "url": "https://leetcode.com/problems/distinct-subsequences",
     "difficulty": "Hard",
-    "topics": [
-      "2-D DP"
-    ],
+    "topics": ["2-D DP"],
     "companies": [],
     "listMeta": {
       "day": 88,
@@ -2011,9 +1775,7 @@
     "slug": "edit-distance",
     "url": "https://leetcode.com/problems/edit-distance",
     "difficulty": "Medium",
-    "topics": [
-      "2-D DP"
-    ],
+    "topics": ["2-D DP"],
     "companies": [],
     "listMeta": {
       "day": 89,
@@ -2028,9 +1790,7 @@
     "slug": "burst-balloons",
     "url": "https://leetcode.com/problems/burst-balloons",
     "difficulty": "Hard",
-    "topics": [
-      "2-D DP"
-    ],
+    "topics": ["2-D DP"],
     "companies": [],
     "listMeta": {
       "day": 89,
@@ -2045,9 +1805,7 @@
     "slug": "regular-expression-matching",
     "url": "https://leetcode.com/problems/regular-expression-matching",
     "difficulty": "Hard",
-    "topics": [
-      "2-D DP"
-    ],
+    "topics": ["2-D DP"],
     "companies": [],
     "listMeta": {
       "day": 90,
@@ -2062,9 +1820,7 @@
     "slug": "maximum-subarray",
     "url": "https://leetcode.com/problems/maximum-subarray",
     "difficulty": "Medium",
-    "topics": [
-      "Greedy"
-    ],
+    "topics": ["Greedy"],
     "companies": [],
     "listMeta": {
       "day": 92,
@@ -2079,9 +1835,7 @@
     "slug": "jump-game",
     "url": "https://leetcode.com/problems/jump-game",
     "difficulty": "Medium",
-    "topics": [
-      "Greedy"
-    ],
+    "topics": ["Greedy"],
     "companies": [],
     "listMeta": {
       "day": 92,
@@ -2096,9 +1850,7 @@
     "slug": "jump-game-ii",
     "url": "https://leetcode.com/problems/jump-game-ii",
     "difficulty": "Medium",
-    "topics": [
-      "Greedy"
-    ],
+    "topics": ["Greedy"],
     "companies": [],
     "listMeta": {
       "day": 92,
@@ -2113,9 +1865,7 @@
     "slug": "gas-station",
     "url": "https://leetcode.com/problems/gas-station",
     "difficulty": "Medium",
-    "topics": [
-      "Greedy"
-    ],
+    "topics": ["Greedy"],
     "companies": [],
     "listMeta": {
       "day": 93,
@@ -2130,9 +1880,7 @@
     "slug": "hand-of-straights",
     "url": "https://leetcode.com/problems/hand-of-straights",
     "difficulty": "Medium",
-    "topics": [
-      "Greedy"
-    ],
+    "topics": ["Greedy"],
     "companies": [],
     "listMeta": {
       "day": 93,
@@ -2147,9 +1895,7 @@
     "slug": "merge-triplets",
     "url": "https://leetcode.com/problems/merge-triplets",
     "difficulty": "Medium",
-    "topics": [
-      "Greedy"
-    ],
+    "topics": ["Greedy"],
     "companies": [],
     "listMeta": {
       "day": 94,
@@ -2164,9 +1910,7 @@
     "slug": "partition-labels",
     "url": "https://leetcode.com/problems/partition-labels",
     "difficulty": "Medium",
-    "topics": [
-      "Greedy"
-    ],
+    "topics": ["Greedy"],
     "companies": [],
     "listMeta": {
       "day": 94,
@@ -2181,9 +1925,7 @@
     "slug": "valid-parenthesis-string",
     "url": "https://leetcode.com/problems/valid-parenthesis-string",
     "difficulty": "Medium",
-    "topics": [
-      "Greedy"
-    ],
+    "topics": ["Greedy"],
     "companies": [],
     "listMeta": {
       "day": 95,
@@ -2198,9 +1940,7 @@
     "slug": "insert-interval",
     "url": "https://leetcode.com/problems/insert-interval",
     "difficulty": "Medium",
-    "topics": [
-      "Intervals"
-    ],
+    "topics": ["Intervals"],
     "companies": [],
     "listMeta": {
       "day": 96,
@@ -2215,9 +1955,7 @@
     "slug": "merge-intervals",
     "url": "https://leetcode.com/problems/merge-intervals",
     "difficulty": "Medium",
-    "topics": [
-      "Intervals"
-    ],
+    "topics": ["Intervals"],
     "companies": [],
     "listMeta": {
       "day": 96,
@@ -2232,9 +1970,7 @@
     "slug": "non-overlapping-intervals",
     "url": "https://leetcode.com/problems/non-overlapping-intervals",
     "difficulty": "Medium",
-    "topics": [
-      "Intervals"
-    ],
+    "topics": ["Intervals"],
     "companies": [],
     "listMeta": {
       "day": 96,
@@ -2249,9 +1985,7 @@
     "slug": "meeting-rooms",
     "url": "https://leetcode.com/problems/meeting-rooms",
     "difficulty": "Easy",
-    "topics": [
-      "Intervals"
-    ],
+    "topics": ["Intervals"],
     "companies": [],
     "listMeta": {
       "day": 97,
@@ -2266,9 +2000,7 @@
     "slug": "meeting-rooms-ii",
     "url": "https://leetcode.com/problems/meeting-rooms-ii",
     "difficulty": "Medium",
-    "topics": [
-      "Intervals"
-    ],
+    "topics": ["Intervals"],
     "companies": [],
     "listMeta": {
       "day": 97,
@@ -2283,9 +2015,7 @@
     "slug": "minimum-interval-to-include-each-query",
     "url": "https://leetcode.com/problems/minimum-interval-to-include-each-query",
     "difficulty": "Hard",
-    "topics": [
-      "Intervals"
-    ],
+    "topics": ["Intervals"],
     "companies": [],
     "listMeta": {
       "day": 98,
@@ -2300,9 +2030,7 @@
     "slug": "rotate-image",
     "url": "https://leetcode.com/problems/rotate-image",
     "difficulty": "Medium",
-    "topics": [
-      "Math & Geometry"
-    ],
+    "topics": ["Math & Geometry"],
     "companies": [],
     "listMeta": {
       "day": 99,
@@ -2317,9 +2045,7 @@
     "slug": "spiral-matrix",
     "url": "https://leetcode.com/problems/spiral-matrix",
     "difficulty": "Medium",
-    "topics": [
-      "Math & Geometry"
-    ],
+    "topics": ["Math & Geometry"],
     "companies": [],
     "listMeta": {
       "day": 99,
@@ -2334,9 +2060,7 @@
     "slug": "set-matrix-zeroes",
     "url": "https://leetcode.com/problems/set-matrix-zeroes",
     "difficulty": "Medium",
-    "topics": [
-      "Math & Geometry"
-    ],
+    "topics": ["Math & Geometry"],
     "companies": [],
     "listMeta": {
       "day": 99,
@@ -2351,9 +2075,7 @@
     "slug": "happy-number",
     "url": "https://leetcode.com/problems/happy-number",
     "difficulty": "Easy",
-    "topics": [
-      "Math & Geometry"
-    ],
+    "topics": ["Math & Geometry"],
     "companies": [],
     "listMeta": {
       "day": 100,
@@ -2368,9 +2090,7 @@
     "slug": "plus-one",
     "url": "https://leetcode.com/problems/plus-one",
     "difficulty": "Easy",
-    "topics": [
-      "Math & Geometry"
-    ],
+    "topics": ["Math & Geometry"],
     "companies": [],
     "listMeta": {
       "day": 100,
@@ -2385,9 +2105,7 @@
     "slug": "powx-n",
     "url": "https://leetcode.com/problems/powx-n",
     "difficulty": "Medium",
-    "topics": [
-      "Math & Geometry"
-    ],
+    "topics": ["Math & Geometry"],
     "companies": [],
     "listMeta": {
       "day": 101,
@@ -2402,9 +2120,7 @@
     "slug": "multiply-strings",
     "url": "https://leetcode.com/problems/multiply-strings",
     "difficulty": "Medium",
-    "topics": [
-      "Math & Geometry"
-    ],
+    "topics": ["Math & Geometry"],
     "companies": [],
     "listMeta": {
       "day": 101,
@@ -2419,9 +2135,7 @@
     "slug": "detect-squares",
     "url": "https://leetcode.com/problems/detect-squares",
     "difficulty": "Medium",
-    "topics": [
-      "Math & Geometry"
-    ],
+    "topics": ["Math & Geometry"],
     "companies": [],
     "listMeta": {
       "day": 102,
@@ -2436,9 +2150,7 @@
     "slug": "single-number",
     "url": "https://leetcode.com/problems/single-number",
     "difficulty": "Easy",
-    "topics": [
-      "Bit Manipulation"
-    ],
+    "topics": ["Bit Manipulation"],
     "companies": [],
     "listMeta": {
       "day": 103,
@@ -2453,9 +2165,7 @@
     "slug": "number-of-1-bits",
     "url": "https://leetcode.com/problems/number-of-1-bits",
     "difficulty": "Easy",
-    "topics": [
-      "Bit Manipulation"
-    ],
+    "topics": ["Bit Manipulation"],
     "companies": [],
     "listMeta": {
       "day": 103,
@@ -2470,9 +2180,7 @@
     "slug": "counting-bits",
     "url": "https://leetcode.com/problems/counting-bits",
     "difficulty": "Easy",
-    "topics": [
-      "Bit Manipulation"
-    ],
+    "topics": ["Bit Manipulation"],
     "companies": [],
     "listMeta": {
       "day": 103,
@@ -2487,9 +2195,7 @@
     "slug": "reverse-bits",
     "url": "https://leetcode.com/problems/reverse-bits",
     "difficulty": "Easy",
-    "topics": [
-      "Bit Manipulation"
-    ],
+    "topics": ["Bit Manipulation"],
     "companies": [],
     "listMeta": {
       "day": 104,
@@ -2504,9 +2210,7 @@
     "slug": "missing-number",
     "url": "https://leetcode.com/problems/missing-number",
     "difficulty": "Easy",
-    "topics": [
-      "Bit Manipulation"
-    ],
+    "topics": ["Bit Manipulation"],
     "companies": [],
     "listMeta": {
       "day": 104,
@@ -2521,9 +2225,7 @@
     "slug": "sum-of-two-integers",
     "url": "https://leetcode.com/problems/sum-of-two-integers",
     "difficulty": "Medium",
-    "topics": [
-      "Bit Manipulation"
-    ],
+    "topics": ["Bit Manipulation"],
     "companies": [],
     "listMeta": {
       "day": 105,
@@ -2538,9 +2240,7 @@
     "slug": "reverse-integer",
     "url": "https://leetcode.com/problems/reverse-integer",
     "difficulty": "Medium",
-    "topics": [
-      "Bit Manipulation"
-    ],
+    "topics": ["Bit Manipulation"],
     "companies": [],
     "listMeta": {
       "day": 105,

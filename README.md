@@ -1,4 +1,4 @@
-# CodeTrack Pro
+# Leetcode Tracker
 
 A Vite + React LeetCode tracker with built-in study plans, custom problem sets, spaced repetition reviews, streak tracking, local browser reminders, and Docker deployment.
 

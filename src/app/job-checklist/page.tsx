@@ -1,7 +1,7 @@
 import JobChecklist from "../../views/JobChecklist";
 
 export const metadata = {
-  title: "Job Checklist | CodeTrack Pro",
+  title: "Job Checklist | Leetcode Tracker",
 };
 
 export default function JobChecklistPage() {

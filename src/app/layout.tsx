@@ -17,18 +17,18 @@ export const viewport = {
 };
 
 export const metadata = {
-  title: "LeetCode Progress Tracker | CodeTrack Pro",
+  title: "Leetcode Tracker | Track Your LeetCode Progress",
   description:
-    "CodeTrack Pro is a modern LeetCode progress tracker with spaced repetition. Track solved problems, review them at optimal intervals, and boost your retention.",
+    "Leetcode Tracker is a modern LeetCode progress tracker with spaced repetition. Track solved problems, review them at optimal intervals, and boost your retention.",
   openGraph: {
-    title: "LeetCode Progress Tracker | CodeTrack Pro",
+    title: "Leetcode Tracker | Track Your LeetCode Progress",
     description:
       "Track your LeetCode progress and review problems with spaced repetition to boost retention.",
-    url: "https://track-leetcode.vercel.app/",
-    siteName: "CodeTrack Pro",
+    url: "https://leetcodetracker.utkarshchourasia.in",
+    siteName: "Leetcode Tracker",
     images: [
       {
-        url: "https://track-leetcode.vercel.app/og-image.png",
+        url: "https://leetcodetracker.utkarshchourasia.in/og-image.png",
       },
     ],
     locale: "en_US",
@@ -36,10 +36,10 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "LeetCode Progress Tracker | CodeTrack Pro",
+    title: "Leetcode Tracker | Track Your LeetCode Progress",
     description:
       "Track your LeetCode progress and review problems with spaced repetition to boost retention.",
-    images: ["https://track-leetcode.vercel.app/og-image.png"],
+    images: ["https://leetcodetracker.utkarshchourasia.in/og-image.png"],
   },
   icons: {
     icon: "/icon.png",
@@ -75,13 +75,13 @@ export default function RootLayout({ children }) {
           {JSON.stringify({
             "@context": "https://schema.org",
             "@type": "WebApplication",
-            name: "CodeTrack Pro",
-            url: "https://track-leetcode.vercel.app/",
+            name: "Leetcode Tracker",
+            url: "https://leetcodetracker.utkarshchourasia.in",
             description:
               "A modern LeetCode progress tracker with spaced repetition for better retention.",
             applicationCategory: "EducationalApplication",
             operatingSystem: "Web",
-            image: "https://track-leetcode.vercel.app/og-image.png",
+            image: "https://leetcodetracker.utkarshchourasia.in/og-image.png",
           })}
         </Script>
       </head>

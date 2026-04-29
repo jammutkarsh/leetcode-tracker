@@ -26,7 +26,8 @@ const replaceWord = (input: string, fromWord: string, toWord: string): string =>
 
 const LEETCODE_URL_BASE = "https://leetcode.com/problems";
 
-const buildLeetcodeUrl = (slug: string): string => `${LEETCODE_URL_BASE}/${slug}`;
+const buildLeetcodeUrl = (slug: string): string =>
+  `${LEETCODE_URL_BASE}/${slug}`;
 
 const normalizeWhitespace = (input: string): string =>
   input.split(" ").filter(Boolean).join(" ").trim();

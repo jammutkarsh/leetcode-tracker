@@ -405,7 +405,7 @@ const Navbar = () => {
             href="/"
             className="rounded-xl border border-transparent px-3 py-1.5 text-lg font-bold text-foreground transition-colors hover:border-border/70 hover:bg-secondary/60 hover:text-primary"
           >
-            CodeTrack Pro
+            Leetcode Tracker
           </Link>
 
           {mounted && isHomePage ? (

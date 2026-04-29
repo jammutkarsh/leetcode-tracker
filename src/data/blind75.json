@@ -5,10 +5,7 @@
     "slug": "two-sum",
     "url": "https://leetcode.com/problems/two-sum",
     "difficulty": "Easy",
-    "topics": [
-      "Array",
-      "Hash Table"
-    ],
+    "topics": ["Array", "Hash Table"],
     "listMeta": {
       "originalIndex": 1,
       "section": "Arrays & Hashing"
@@ -21,10 +18,7 @@
     "slug": "contains-duplicate",
     "url": "https://leetcode.com/problems/contains-duplicate",
     "difficulty": "Easy",
-    "topics": [
-      "Array",
-      "Hash Table"
-    ],
+    "topics": ["Array", "Hash Table"],
     "listMeta": {
       "originalIndex": 2,
       "section": "Arrays & Hashing"
@@ -37,10 +31,7 @@
     "slug": "valid-anagram",
     "url": "https://leetcode.com/problems/valid-anagram",
     "difficulty": "Easy",
-    "topics": [
-      "String",
-      "Hash Table"
-    ],
+    "topics": ["String", "Hash Table"],
     "listMeta": {
       "originalIndex": 3,
       "section": "Arrays & Hashing"
@@ -53,10 +44,7 @@
     "slug": "group-anagrams",
     "url": "https://leetcode.com/problems/group-anagrams",
     "difficulty": "Medium",
-    "topics": [
-      "String",
-      "Hash Table"
-    ],
+    "topics": ["String", "Hash Table"],
     "listMeta": {
       "originalIndex": 4,
       "section": "Arrays & Hashing"
@@ -69,11 +57,7 @@
     "slug": "top-k-frequent-elements",
     "url": "https://leetcode.com/problems/top-k-frequent-elements",
     "difficulty": "Medium",
-    "topics": [
-      "Array",
-      "Hash Table",
-      "Heap"
-    ],
+    "topics": ["Array", "Hash Table", "Heap"],
     "listMeta": {
       "originalIndex": 5,
       "section": "Arrays & Hashing"
@@ -86,10 +70,7 @@
     "slug": "product-of-array-except-self",
     "url": "https://leetcode.com/problems/product-of-array-except-self",
     "difficulty": "Medium",
-    "topics": [
-      "Array",
-      "Prefix Sum"
-    ],
+    "topics": ["Array", "Prefix Sum"],
     "listMeta": {
       "originalIndex": 6,
       "section": "Arrays & Hashing"
@@ -102,10 +83,7 @@
     "slug": "encode-and-decode-strings",
     "url": "https://leetcode.com/problems/encode-and-decode-strings",
     "difficulty": "Medium",
-    "topics": [
-      "Array",
-      "String"
-    ],
+    "topics": ["Array", "String"],
     "listMeta": {
       "originalIndex": 7,
       "section": "Arrays & Hashing"
@@ -118,11 +96,7 @@
     "slug": "longest-consecutive-sequence",
     "url": "https://leetcode.com/problems/longest-consecutive-sequence",
     "difficulty": "Medium",
-    "topics": [
-      "Array",
-      "Hash Table",
-      "Union Find"
-    ],
+    "topics": ["Array", "Hash Table", "Union Find"],
     "listMeta": {
       "originalIndex": 8,
       "section": "Arrays & Hashing"
@@ -135,10 +109,7 @@
     "slug": "valid-palindrome",
     "url": "https://leetcode.com/problems/valid-palindrome",
     "difficulty": "Easy",
-    "topics": [
-      "String",
-      "Two Pointers"
-    ],
+    "topics": ["String", "Two Pointers"],
     "listMeta": {
       "originalIndex": 9,
       "section": "Two Pointers"
@@ -151,10 +122,7 @@
     "slug": "3sum",
     "url": "https://leetcode.com/problems/3sum",
     "difficulty": "Medium",
-    "topics": [
-      "Array",
-      "Two Pointers"
-    ],
+    "topics": ["Array", "Two Pointers"],
     "listMeta": {
       "originalIndex": 10,
       "section": "Two Pointers"
@@ -167,10 +135,7 @@
     "slug": "container-with-most-water",
     "url": "https://leetcode.com/problems/container-with-most-water",
     "difficulty": "Medium",
-    "topics": [
-      "Array",
-      "Two Pointers"
-    ],
+    "topics": ["Array", "Two Pointers"],
     "listMeta": {
       "originalIndex": 11,
       "section": "Two Pointers"
@@ -183,10 +148,7 @@
     "slug": "best-time-to-buy-and-sell-stock",
     "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
     "difficulty": "Easy",
-    "topics": [
-      "Array",
-      "Sliding Window"
-    ],
+    "topics": ["Array", "Sliding Window"],
     "listMeta": {
       "originalIndex": 12,
       "section": "Sliding Window"
@@ -199,10 +161,7 @@
     "slug": "longest-substring-without-repeating-characters",
     "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
     "difficulty": "Medium",
-    "topics": [
-      "String",
-      "Sliding Window"
-    ],
+    "topics": ["String", "Sliding Window"],
     "listMeta": {
       "originalIndex": 13,
       "section": "Sliding Window"
@@ -215,10 +174,7 @@
     "slug": "longest-repeating-character-replacement",
     "url": "https://leetcode.com/problems/longest-repeating-character-replacement",
     "difficulty": "Medium",
-    "topics": [
-      "String",
-      "Sliding Window"
-    ],
+    "topics": ["String", "Sliding Window"],
     "listMeta": {
       "originalIndex": 14,
       "section": "Sliding Window"
@@ -231,10 +187,7 @@
     "slug": "minimum-window-substring",
     "url": "https://leetcode.com/problems/minimum-window-substring",
     "difficulty": "Hard",
-    "topics": [
-      "String",
-      "Sliding Window"
-    ],
+    "topics": ["String", "Sliding Window"],
     "listMeta": {
       "originalIndex": 15,
       "section": "Sliding Window"
@@ -247,10 +200,7 @@
     "slug": "valid-parentheses",
     "url": "https://leetcode.com/problems/valid-parentheses",
     "difficulty": "Easy",
-    "topics": [
-      "String",
-      "Stack"
-    ],
+    "topics": ["String", "Stack"],
     "listMeta": {
       "originalIndex": 16,
       "section": "Stack"
@@ -263,10 +213,7 @@
     "slug": "min-stack",
     "url": "https://leetcode.com/problems/min-stack",
     "difficulty": "Medium",
-    "topics": [
-      "Design",
-      "Stack"
-    ],
+    "topics": ["Design", "Stack"],
     "listMeta": {
       "originalIndex": 17,
       "section": "Stack"
@@ -279,10 +226,7 @@
     "slug": "evaluate-reverse-polish-notation",
     "url": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
     "difficulty": "Medium",
-    "topics": [
-      "Array",
-      "Stack"
-    ],
+    "topics": ["Array", "Stack"],
     "listMeta": {
       "originalIndex": 18,
       "section": "Stack"
@@ -295,11 +239,7 @@
     "slug": "generate-parentheses",
     "url": "https://leetcode.com/problems/generate-parentheses",
     "difficulty": "Medium",
-    "topics": [
-      "String",
-      "Stack",
-      "Backtracking"
-    ],
+    "topics": ["String", "Stack", "Backtracking"],
     "listMeta": {
       "originalIndex": 19,
       "section": "Stack"
@@ -312,10 +252,7 @@
     "slug": "daily-temperatures",
     "url": "https://leetcode.com/problems/daily-temperatures",
     "difficulty": "Medium",
-    "topics": [
-      "Array",
-      "Stack"
-    ],
+    "topics": ["Array", "Stack"],
     "listMeta": {
       "originalIndex": 20,
       "section": "Stack"
@@ -328,10 +265,7 @@
     "slug": "find-minimum-in-rotated-sorted-array",
     "url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array",
     "difficulty": "Medium",
-    "topics": [
-      "Array",
-      "Binary Search"
-    ],
+    "topics": ["Array", "Binary Search"],
     "listMeta": {
       "originalIndex": 21,
       "section": "Binary Search"
@@ -344,10 +278,7 @@
     "slug": "search-in-rotated-sorted-array",
     "url": "https://leetcode.com/problems/search-in-rotated-sorted-array",
     "difficulty": "Medium",
-    "topics": [
-      "Array",
-      "Binary Search"
-    ],
+    "topics": ["Array", "Binary Search"],
     "listMeta": {
       "originalIndex": 22,
       "section": "Binary Search"
@@ -360,10 +291,7 @@
     "slug": "reverse-linked-list",
     "url": "https://leetcode.com/problems/reverse-linked-list",
     "difficulty": "Easy",
-    "topics": [
-      "Linked List",
-      "Recursion"
-    ],
+    "topics": ["Linked List", "Recursion"],
     "listMeta": {
       "originalIndex": 23,
       "section": "Linked List"
@@ -376,10 +304,7 @@
     "slug": "merge-two-sorted-lists",
     "url": "https://leetcode.com/problems/merge-two-sorted-lists",
     "difficulty": "Easy",
-    "topics": [
-      "Linked List",
-      "Recursion"
-    ],
+    "topics": ["Linked List", "Recursion"],
     "listMeta": {
       "originalIndex": 24,
       "section": "Linked List"
@@ -392,10 +317,7 @@
     "slug": "reorder-list",
     "url": "https://leetcode.com/problems/reorder-list",
     "difficulty": "Medium",
-    "topics": [
-      "Linked List",
-      "Two Pointers"
-    ],
+    "topics": ["Linked List", "Two Pointers"],
     "listMeta": {
       "originalIndex": 25,
       "section": "Linked List"
@@ -408,10 +330,7 @@
     "slug": "remove-nth-node-from-end-of-list",
     "url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
     "difficulty": "Medium",
-    "topics": [
-      "Linked List",
-      "Two Pointers"
-    ],
+    "topics": ["Linked List", "Two Pointers"],
     "listMeta": {
       "originalIndex": 26,
       "section": "Linked List"
@@ -424,10 +343,7 @@
     "slug": "linked-list-cycle",
     "url": "https://leetcode.com/problems/linked-list-cycle",
     "difficulty": "Easy",
-    "topics": [
-      "Linked List",
-      "Two Pointers"
-    ],
+    "topics": ["Linked List", "Two Pointers"],
     "listMeta": {
       "originalIndex": 27,
       "section": "Linked List"
@@ -440,10 +356,7 @@
     "slug": "merge-k-sorted-lists",
     "url": "https://leetcode.com/problems/merge-k-sorted-lists",
     "difficulty": "Hard",
-    "topics": [
-      "Linked List",
-      "Heap"
-    ],
+    "topics": ["Linked List", "Heap"],
     "listMeta": {
       "originalIndex": 28,
       "section": "Linked List"
@@ -456,10 +369,7 @@
     "slug": "invert-binary-tree",
     "url": "https://leetcode.com/problems/invert-binary-tree",
     "difficulty": "Easy",
-    "topics": [
-      "Tree",
-      "DFS"
-    ],
+    "topics": ["Tree", "DFS"],
     "listMeta": {
       "originalIndex": 29,
       "section": "Trees"
@@ -472,10 +382,7 @@
     "slug": "maximum-depth-of-binary-tree",
     "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree",
     "difficulty": "Easy",
-    "topics": [
-      "Tree",
-      "DFS"
-    ],
+    "topics": ["Tree", "DFS"],
     "listMeta": {
       "originalIndex": 30,
       "section": "Trees"
@@ -488,10 +395,7 @@
     "slug": "same-tree",
     "url": "https://leetcode.com/problems/same-tree",
     "difficulty": "Easy",
-    "topics": [
-      "Tree",
-      "DFS"
-    ],
+    "topics": ["Tree", "DFS"],
     "listMeta": {
       "originalIndex": 31,
       "section": "Trees"
@@ -504,10 +408,7 @@
     "slug": "subtree-of-another-tree",
     "url": "https://leetcode.com/problems/subtree-of-another-tree",
     "difficulty": "Easy",
-    "topics": [
-      "Tree",
-      "DFS"
-    ],
+    "topics": ["Tree", "DFS"],
     "listMeta": {
       "originalIndex": 32,
       "section": "Trees"
@@ -520,10 +421,7 @@
     "slug": "lowest-common-ancestor-of-a-binary-search-tree",
     "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree",
     "difficulty": "Medium",
-    "topics": [
-      "Tree",
-      "Binary Search Tree"
-    ],
+    "topics": ["Tree", "Binary Search Tree"],
     "listMeta": {
       "originalIndex": 33,
       "section": "Trees"
@@ -536,10 +434,7 @@
     "slug": "binary-tree-level-order-traversal",
     "url": "https://leetcode.com/problems/binary-tree-level-order-traversal",
     "difficulty": "Medium",
-    "topics": [
-      "Tree",
-      "BFS"
-    ],
+    "topics": ["Tree", "BFS"],
     "listMeta": {
       "originalIndex": 34,
       "section": "Trees"
@@ -552,11 +447,7 @@
     "slug": "validate-binary-search-tree",
     "url": "https://leetcode.com/problems/validate-binary-search-tree",
     "difficulty": "Medium",
-    "topics": [
-      "Tree",
-      "Binary Search Tree",
-      "DFS"
-    ],
+    "topics": ["Tree", "Binary Search Tree", "DFS"],
     "listMeta": {
       "originalIndex": 35,
       "section": "Trees"
@@ -569,11 +460,7 @@
     "slug": "kth-smallest-element-in-a-bst",
     "url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst",
     "difficulty": "Medium",
-    "topics": [
-      "Tree",
-      "Binary Search Tree",
-      "DFS"
-    ],
+    "topics": ["Tree", "Binary Search Tree", "DFS"],
     "listMeta": {
       "originalIndex": 36,
       "section": "Trees"
@@ -586,10 +473,7 @@
     "slug": "construct-binary-tree-from-preorder-and-inorder-traversal",
     "url": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal",
     "difficulty": "Medium",
-    "topics": [
-      "Tree",
-      "DFS"
-    ],
+    "topics": ["Tree", "DFS"],
     "listMeta": {
       "originalIndex": 37,
       "section": "Trees"
@@ -602,10 +486,7 @@
     "slug": "binary-tree-maximum-path-sum",
     "url": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
     "difficulty": "Hard",
-    "topics": [
-      "Tree",
-      "DFS"
-    ],
+    "topics": ["Tree", "DFS"],
     "listMeta": {
       "originalIndex": 38,
       "section": "Trees"
@@ -618,11 +499,7 @@
     "slug": "serialize-and-deserialize-binary-tree",
     "url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
     "difficulty": "Hard",
-    "topics": [
-      "Tree",
-      "BFS",
-      "Design"
-    ],
+    "topics": ["Tree", "BFS", "Design"],
     "listMeta": {
       "originalIndex": 39,
       "section": "Trees"
@@ -635,10 +512,7 @@
     "slug": "implement-trie-prefix-tree",
     "url": "https://leetcode.com/problems/implement-trie-prefix-tree",
     "difficulty": "Medium",
-    "topics": [
-      "Trie",
-      "Design"
-    ],
+    "topics": ["Trie", "Design"],
     "listMeta": {
       "originalIndex": 40,
       "section": "Tries"
@@ -651,10 +525,7 @@
     "slug": "design-add-and-search-words-data-structure",
     "url": "https://leetcode.com/problems/design-add-and-search-words-data-structure",
     "difficulty": "Medium",
-    "topics": [
-      "Trie",
-      "Design"
-    ],
+    "topics": ["Trie", "Design"],
     "listMeta": {
       "originalIndex": 41,
       "section": "Tries"
@@ -667,10 +538,7 @@
     "slug": "word-search-ii",
     "url": "https://leetcode.com/problems/word-search-ii",
     "difficulty": "Hard",
-    "topics": [
-      "Trie",
-      "Backtracking"
-    ],
+    "topics": ["Trie", "Backtracking"],
     "listMeta": {
       "originalIndex": 42,
       "section": "Tries"
@@ -683,10 +551,7 @@
     "slug": "find-median-from-data-stream",
     "url": "https://leetcode.com/problems/find-median-from-data-stream",
     "difficulty": "Hard",
-    "topics": [
-      "Heap",
-      "Design"
-    ],
+    "topics": ["Heap", "Design"],
     "listMeta": {
       "originalIndex": 43,
       "section": "Heap"
@@ -699,10 +564,7 @@
     "slug": "combination-sum",
     "url": "https://leetcode.com/problems/combination-sum",
     "difficulty": "Medium",
-    "topics": [
-      "Backtracking",
-      "Array"
-    ],
+    "topics": ["Backtracking", "Array"],
     "listMeta": {
       "originalIndex": 44,
       "section": "Backtracking"
@@ -715,10 +577,7 @@
     "slug": "word-search",
     "url": "https://leetcode.com/problems/word-search",
     "difficulty": "Medium",
-    "topics": [
-      "Backtracking",
-      "Matrix"
-    ],
+    "topics": ["Backtracking", "Matrix"],
     "listMeta": {
       "originalIndex": 45,
       "section": "Backtracking"
@@ -731,11 +590,7 @@
     "slug": "number-of-islands",
     "url": "https://leetcode.com/problems/number-of-islands",
     "difficulty": "Medium",
-    "topics": [
-      "Graph",
-      "BFS",
-      "DFS"
-    ],
+    "topics": ["Graph", "BFS", "DFS"],
     "listMeta": {
       "originalIndex": 46,
       "section": "Graphs"
@@ -748,11 +603,7 @@
     "slug": "clone-graph",
     "url": "https://leetcode.com/problems/clone-graph",
     "difficulty": "Medium",
-    "topics": [
-      "Graph",
-      "BFS",
-      "DFS"
-    ],
+    "topics": ["Graph", "BFS", "DFS"],
     "listMeta": {
       "originalIndex": 47,
       "section": "Graphs"
@@ -765,11 +616,7 @@
     "slug": "pacific-atlantic-water-flow",
     "url": "https://leetcode.com/problems/pacific-atlantic-water-flow",
     "difficulty": "Medium",
-    "topics": [
-      "Graph",
-      "BFS",
-      "DFS"
-    ],
+    "topics": ["Graph", "BFS", "DFS"],
     "listMeta": {
       "originalIndex": 48,
       "section": "Graphs"
@@ -782,10 +629,7 @@
     "slug": "course-schedule",
     "url": "https://leetcode.com/problems/course-schedule",
     "difficulty": "Medium",
-    "topics": [
-      "Graph",
-      "Topological Sort"
-    ],
+    "topics": ["Graph", "Topological Sort"],
     "listMeta": {
       "originalIndex": 49,
       "section": "Graphs"
@@ -798,10 +642,7 @@
     "slug": "graph-valid-tree",
     "url": "https://leetcode.com/problems/graph-valid-tree",
     "difficulty": "Medium",
-    "topics": [
-      "Graph",
-      "Union Find"
-    ],
+    "topics": ["Graph", "Union Find"],
     "listMeta": {
       "originalIndex": 50,
       "section": "Graphs"
@@ -814,10 +655,7 @@
     "slug": "number-of-connected-components-in-an-undirected-graph",
     "url": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph",
     "difficulty": "Medium",
-    "topics": [
-      "Graph",
-      "Union Find"
-    ],
+    "topics": ["Graph", "Union Find"],
     "listMeta": {
       "originalIndex": 51,
       "section": "Graphs"
@@ -830,9 +668,7 @@
     "slug": "climbing-stairs",
     "url": "https://leetcode.com/problems/climbing-stairs",
     "difficulty": "Easy",
-    "topics": [
-      "Dynamic Programming"
-    ],
+    "topics": ["Dynamic Programming"],
     "listMeta": {
       "originalIndex": 52,
       "section": "1-D Dynamic Programming"
@@ -845,9 +681,7 @@
     "slug": "house-robber",
     "url": "https://leetcode.com/problems/house-robber",
     "difficulty": "Medium",
-    "topics": [
-      "Dynamic Programming"
-    ],
+    "topics": ["Dynamic Programming"],
     "listMeta": {
       "originalIndex": 53,
       "section": "1-D Dynamic Programming"
@@ -860,9 +694,7 @@
     "slug": "house-robber-ii",
     "url": "https://leetcode.com/problems/house-robber-ii",
     "difficulty": "Medium",
-    "topics": [
-      "Dynamic Programming"
-    ],
+    "topics": ["Dynamic Programming"],
     "listMeta": {
       "originalIndex": 54,
       "section": "1-D Dynamic Programming"
@@ -875,10 +707,7 @@
     "slug": "longest-palindromic-substring",
     "url": "https://leetcode.com/problems/longest-palindromic-substring",
     "difficulty": "Medium",
-    "topics": [
-      "Dynamic Programming",
-      "String"
-    ],
+    "topics": ["Dynamic Programming", "String"],
     "listMeta": {
       "originalIndex": 55,
       "section": "1-D Dynamic Programming"
@@ -891,10 +720,7 @@
     "slug": "palindromic-substrings",
     "url": "https://leetcode.com/problems/palindromic-substrings",
     "difficulty": "Medium",
-    "topics": [
-      "Dynamic Programming",
-      "String"
-    ],
+    "topics": ["Dynamic Programming", "String"],
     "listMeta": {
       "originalIndex": 56,
       "section": "1-D Dynamic Programming"
@@ -907,10 +733,7 @@
     "slug": "decode-ways",
     "url": "https://leetcode.com/problems/decode-ways",
     "difficulty": "Medium",
-    "topics": [
-      "Dynamic Programming",
-      "String"
-    ],
+    "topics": ["Dynamic Programming", "String"],
     "listMeta": {
       "originalIndex": 57,
       "section": "1-D Dynamic Programming"
@@ -923,10 +746,7 @@
     "slug": "coin-change",
     "url": "https://leetcode.com/problems/coin-change",
     "difficulty": "Medium",
-    "topics": [
-      "Dynamic Programming",
-      "Array"
-    ],
+    "topics": ["Dynamic Programming", "Array"],
     "listMeta": {
       "originalIndex": 58,
       "section": "1-D Dynamic Programming"
@@ -939,10 +759,7 @@
     "slug": "maximum-product-subarray",
     "url": "https://leetcode.com/problems/maximum-product-subarray",
     "difficulty": "Medium",
-    "topics": [
-      "Dynamic Programming",
-      "Array"
-    ],
+    "topics": ["Dynamic Programming", "Array"],
     "listMeta": {
       "originalIndex": 59,
       "section": "1-D Dynamic Programming"
@@ -955,10 +772,7 @@
     "slug": "word-break",
     "url": "https://leetcode.com/problems/word-break",
     "difficulty": "Medium",
-    "topics": [
-      "Dynamic Programming",
-      "Trie"
-    ],
+    "topics": ["Dynamic Programming", "Trie"],
     "listMeta": {
       "originalIndex": 60,
       "section": "1-D Dynamic Programming"
@@ -971,10 +785,7 @@
     "slug": "longest-increasing-subsequence",
     "url": "https://leetcode.com/problems/longest-increasing-subsequence",
     "difficulty": "Medium",
-    "topics": [
-      "Dynamic Programming",
-      "Array"
-    ],
+    "topics": ["Dynamic Programming", "Array"],
     "listMeta": {
       "originalIndex": 61,
       "section": "1-D Dynamic Programming"
@@ -987,10 +798,7 @@
     "slug": "unique-paths",
     "url": "https://leetcode.com/problems/unique-paths",
     "difficulty": "Medium",
-    "topics": [
-      "Dynamic Programming",
-      "Matrix"
-    ],
+    "topics": ["Dynamic Programming", "Matrix"],
     "listMeta": {
       "originalIndex": 62,
       "section": "2-D Dynamic Programming"
@@ -1003,10 +811,7 @@
     "slug": "longest-common-subsequence",
     "url": "https://leetcode.com/problems/longest-common-subsequence",
     "difficulty": "Medium",
-    "topics": [
-      "Dynamic Programming",
-      "String"
-    ],
+    "topics": ["Dynamic Programming", "String"],
     "listMeta": {
       "originalIndex": 63,
       "section": "2-D Dynamic Programming"
@@ -1019,10 +824,7 @@
     "slug": "maximum-subarray",
     "url": "https://leetcode.com/problems/maximum-subarray",
     "difficulty": "Easy",
-    "topics": [
-      "Greedy",
-      "Array"
-    ],
+    "topics": ["Greedy", "Array"],
     "listMeta": {
       "originalIndex": 64,
       "section": "Greedy"
@@ -1035,10 +837,7 @@
     "slug": "jump-game",
     "url": "https://leetcode.com/problems/jump-game",
     "difficulty": "Medium",
-    "topics": [
-      "Greedy",
-      "Array"
-    ],
+    "topics": ["Greedy", "Array"],
     "listMeta": {
       "originalIndex": 65,
       "section": "Greedy"
@@ -1051,10 +850,7 @@
     "slug": "insert-interval",
     "url": "https://leetcode.com/problems/insert-interval",
     "difficulty": "Medium",
-    "topics": [
-      "Intervals",
-      "Array"
-    ],
+    "topics": ["Intervals", "Array"],
     "listMeta": {
       "originalIndex": 66,
       "section": "Intervals"
@@ -1067,10 +863,7 @@
     "slug": "merge-intervals",
     "url": "https://leetcode.com/problems/merge-intervals",
     "difficulty": "Medium",
-    "topics": [
-      "Intervals",
-      "Array"
-    ],
+    "topics": ["Intervals", "Array"],
     "listMeta": {
       "originalIndex": 67,
       "section": "Intervals"
@@ -1083,10 +876,7 @@
     "slug": "non-overlapping-intervals",
     "url": "https://leetcode.com/problems/non-overlapping-intervals",
     "difficulty": "Medium",
-    "topics": [
-      "Intervals",
-      "Greedy"
-    ],
+    "topics": ["Intervals", "Greedy"],
     "listMeta": {
       "originalIndex": 68,
       "section": "Intervals"
@@ -1099,10 +889,7 @@
     "slug": "meeting-rooms",
     "url": "https://leetcode.com/problems/meeting-rooms",
     "difficulty": "Easy",
-    "topics": [
-      "Intervals",
-      "Sorting"
-    ],
+    "topics": ["Intervals", "Sorting"],
     "listMeta": {
       "originalIndex": 69,
       "section": "Intervals"
@@ -1115,10 +902,7 @@
     "slug": "meeting-rooms-ii",
     "url": "https://leetcode.com/problems/meeting-rooms-ii",
     "difficulty": "Medium",
-    "topics": [
-      "Intervals",
-      "Heap"
-    ],
+    "topics": ["Intervals", "Heap"],
     "listMeta": {
       "originalIndex": 70,
       "section": "Intervals"
@@ -1131,9 +915,7 @@
     "slug": "number-of-1-bits",
     "url": "https://leetcode.com/problems/number-of-1-bits",
     "difficulty": "Easy",
-    "topics": [
-      "Bit Manipulation"
-    ],
+    "topics": ["Bit Manipulation"],
     "listMeta": {
       "originalIndex": 71,
       "section": "Bit Manipulation"
@@ -1146,9 +928,7 @@
     "slug": "counting-bits",
     "url": "https://leetcode.com/problems/counting-bits",
     "difficulty": "Easy",
-    "topics": [
-      "Bit Manipulation"
-    ],
+    "topics": ["Bit Manipulation"],
     "listMeta": {
       "originalIndex": 72,
       "section": "Bit Manipulation"
@@ -1161,9 +941,7 @@
     "slug": "reverse-bits",
     "url": "https://leetcode.com/problems/reverse-bits",
     "difficulty": "Easy",
-    "topics": [
-      "Bit Manipulation"
-    ],
+    "topics": ["Bit Manipulation"],
     "listMeta": {
       "originalIndex": 73,
       "section": "Bit Manipulation"
@@ -1176,10 +954,7 @@
     "slug": "missing-number",
     "url": "https://leetcode.com/problems/missing-number",
     "difficulty": "Easy",
-    "topics": [
-      "Bit Manipulation",
-      "Array"
-    ],
+    "topics": ["Bit Manipulation", "Array"],
     "listMeta": {
       "originalIndex": 74,
       "section": "Bit Manipulation"
@@ -1192,10 +967,7 @@
     "slug": "sum-of-two-integers",
     "url": "https://leetcode.com/problems/sum-of-two-integers",
     "difficulty": "Medium",
-    "topics": [
-      "Bit Manipulation",
-      "Math"
-    ],
+    "topics": ["Bit Manipulation", "Math"],
     "listMeta": {
       "originalIndex": 75,
       "section": "Bit Manipulation"
