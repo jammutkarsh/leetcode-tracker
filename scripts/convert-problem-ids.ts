@@ -1,21 +1,37 @@
-/* global console, fetch, process */
-
 import { readFile, readdir, writeFile } from "node:fs/promises";
 import path from "node:path";
 
 const dataDir = path.resolve("src/data");
 const apiBase = "https://leetcode-api-pied.vercel.app";
 
-const replaceWord = (input, fromWord, toWord) =>
+interface ProblemItem {
+  id: string;
+  title: string;
+  slug: string;
+  url: string;
+  questionId?: string;
+  [key: string]: unknown;
+}
+
+interface QuestionMeta {
+  questionId: string;
+  title: string;
+}
+
+const replaceWord = (input: string, fromWord: string, toWord: string): string =>
   input
     .split(" ")
     .map((part) => (part === fromWord ? toWord : part))
     .join(" ");
 
-const normalizeWhitespace = (input) =>
+const LEETCODE_URL_BASE = "https://leetcode.com/problems";
+
+const buildLeetcodeUrl = (slug: string): string => `${LEETCODE_URL_BASE}/${slug}`;
+
+const normalizeWhitespace = (input: string): string =>
   input.split(" ").filter(Boolean).join(" ").trim();
 
-const toBasicTokenString = (input, separator) => {
+const toBasicTokenString = (input: string, separator: string): string => {
   const lower = String(input || "")
     .trim()
     .toLowerCase();
@@ -49,9 +65,9 @@ const toBasicTokenString = (input, separator) => {
   return output;
 };
 
-const slugifyTitle = (title) => toBasicTokenString(title, "-");
+const slugifyTitle = (title: string): string => toBasicTokenString(title, "-");
 
-const normalizeTitle = (title) => {
+const normalizeTitle = (title: string): string => {
   let normalized = String(title || "").toLowerCase();
   normalized = normalized.split("(prefix tree)").join("");
   normalized = normalized.split("to form target triplet").join("");
@@ -63,15 +79,15 @@ const normalizeTitle = (title) => {
   return toBasicTokenString(normalized, " ");
 };
 
-const buildSearchVariants = (title) => {
-  const variants = new Set([title]);
+const buildSearchVariants = (title: string): string[] => {
+  const variants = new Set<string>([title]);
   variants.add(title.split("BST").join("Binary Search Tree"));
   variants.add(title.split("Trie").join("Trie (Prefix Tree)"));
   variants.add(`${title} Traversal`);
   return Array.from(variants).filter(Boolean);
 };
 
-const shouldProcessFile = (data) =>
+const shouldProcessFile = (data: unknown): data is ProblemItem[] =>
   Array.isArray(data) &&
   data.length > 0 &&
   data.every(
@@ -83,7 +99,7 @@ const shouldProcessFile = (data) =>
       typeof item.id === "string",
   );
 
-const fetchQuestionMeta = async (slug) => {
+const fetchQuestionMeta = async (slug: string): Promise<QuestionMeta> => {
   const response = await fetch(
     `${apiBase}/problem/${encodeURIComponent(slug)}`,
   );
@@ -103,7 +119,7 @@ const fetchQuestionMeta = async (slug) => {
   throw new Error(`Lookup failed for ${slug}: ${response.status}`);
 };
 
-const searchQuestionMeta = async (title) => {
+const searchQuestionMeta = async (title: string): Promise<QuestionMeta> => {
   for (const variant of buildSearchVariants(title)) {
     const response = await fetch(
       `${apiBase}/search?query=${encodeURIComponent(variant)}`,
@@ -144,11 +160,11 @@ const searchQuestionMeta = async (title) => {
   throw new Error(`No title match for ${title}`);
 };
 
-const main = async () => {
+const main = async (): Promise<void> => {
   const filenames = await readdir(dataDir);
-  const cache = new Map();
+  const cache = new Map<string, QuestionMeta>();
 
-  const failures = [];
+  const failures: string[] = [];
 
   for (const filename of filenames) {
     if (!filename.endsWith(".json")) {
@@ -164,7 +180,7 @@ const main = async () => {
     }
 
     let changed = false;
-    const nextData = [];
+    const nextData: ProblemItem[] = [];
 
     for (const item of data) {
       try {
@@ -179,16 +195,18 @@ const main = async () => {
         }
 
         const nextId = `custom-${slugifyTitle(meta.title)}-${meta.questionId}`;
-        const nextItem = {
+        const nextItem: ProblemItem = {
           ...item,
           id: nextId,
           title: meta.title,
           questionId: meta.questionId,
+          url: buildLeetcodeUrl(item.slug),
         };
 
         if (
           nextItem.id !== item.id ||
           nextItem.title !== item.title ||
+          nextItem.url !== item.url ||
           String(item.questionId || "") !== meta.questionId
         ) {
           changed = true;
@@ -196,7 +214,9 @@ const main = async () => {
 
         nextData.push(nextItem);
       } catch (error) {
-        failures.push(`${filename}:${item.slug} -> ${error.message}`);
+        failures.push(
+          `${filename}:${item.slug} -> ${(error as Error).message}`,
+        );
         nextData.push(item);
       }
     }

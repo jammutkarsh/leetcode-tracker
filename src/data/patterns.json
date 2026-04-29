@@ -78,7 +78,11 @@
       "java": "Map<Integer, Integer> freq = new HashMap<>();\nfor (int num : arr) {\n    freq.put(num, freq.getOrDefault(num, 0) + 1);\n}",
       "go": "freq := make(map[int]int)\nfor _, num := range arr {\n    freq[num]++\n}"
     },
-    "problems": ["Two Sum", "Group Anagrams", "Top K Frequent Elements"]
+    "problems": [
+      "Two Sum",
+      "Group Anagrams",
+      "Top K Frequent Elements"
+    ]
   },
   {
     "title": "Binary Search",
@@ -123,7 +127,11 @@
       "java": "public void backtrack(List<Integer> path, int[] options, int start) {\n    if (baseCase) {\n        result.add(new ArrayList<>(path));\n        return;\n    }\n    for (int i = start; i < options.length; i++) {\n        path.add(options[i]);\n        backtrack(path, options, i + 1);\n        path.remove(path.size() - 1);\n    }\n}",
       "go": "func backtrack(path []int, options []int, start int) {\n    if baseCase {\n        result = append(result, append([]int{}, path...))\n        return\n    }\n    for i := start; i < len(options); i++ {\n        path = append(path, options[i])\n        backtrack(path, options, i+1)\n        path = path[:len(path)-1]\n    }\n}"
     },
-    "problems": ["Subsets", "Permutations", "N-Queens"]
+    "problems": [
+      "Subsets",
+      "Permutations",
+      "N-Queens"
+    ]
   },
   {
     "title": "DFS for Trees",
@@ -134,7 +142,11 @@
       "java": "public void dfsTree(TreeNode node) {\n    if (node == null) return;\n    // Preorder processing\n    dfsTree(node.left);\n    dfsTree(node.right);\n    // Postorder processing\n}",
       "go": "func dfsTree(node *TreeNode) {\n    if node == nil {\n        return\n    }\n    // Preorder processing\n    dfsTree(node.Left)\n    dfsTree(node.Right)\n    // Postorder processing\n}"
     },
-    "problems": ["Max Depth of Binary Tree", "Path Sum", "Balanced Binary Tree"]
+    "problems": [
+      "Max Depth of Binary Tree",
+      "Path Sum",
+      "Balanced Binary Tree"
+    ]
   },
   {
     "title": "BFS for Trees",
