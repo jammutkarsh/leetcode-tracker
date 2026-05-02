@@ -23,5 +23,7 @@ dist-ssr
 *.sln
 *.sw?
 .next
+.open-next
 .agents
 tsconfig.tsbuildinfo
+.wrangler

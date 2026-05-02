@@ -13,6 +13,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "build:worker": "opennextjs-cloudflare build",
+    "deploy:worker": "opennextjs-cloudflare deploy",
+    "preview:worker": "opennextjs-cloudflare preview",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
     "format": "prettier --write ."
@@ -35,6 +38,7 @@
   "devDependencies": {
     "@eslint/js": "^9.39.1",
     "@next/eslint-plugin-next": "^16.2.4",
+    "@opennextjs/cloudflare": "^1.19.5",
     "@tailwindcss/cli": "^4.1.17",
     "@tailwindcss/postcss": "^4.2.4",
     "@types/node": "^25.6.0",
@@ -48,6 +52,7 @@
     "shadcn": "^4.6.0",
     "tailwindcss": "^4.2.4",
     "typescript": "^6.0.3",
-    "typescript-eslint": "^8.59.1"
+    "typescript-eslint": "^8.59.1",
+    "wrangler": "^4.87.0"
   }
 }
