@@ -356,18 +356,18 @@ const LeetCodeTracker = () => {
                   onPrepareList={prepareCustomTrackingList}
                 />
                 <Tooltip>
-                  <Button
-                    variant="secondary"
-                    size="sm"
-                    className="gap-2 border border-border/70 shadow-sm"
-                    aria-label="Review Info"
-                  >
-                    <TooltipTrigger>
-                      <span className="flex items-center">
+                  <TooltipTrigger
+                    render={
+                      <Button
+                        variant="secondary"
+                        size="sm"
+                        className="gap-2 border border-border/70 shadow-sm"
+                        aria-label="Review Info"
+                      >
                         <Info size={14} />
-                      </span>
-                    </TooltipTrigger>
-                  </Button>
+                      </Button>
+                    }
+                  />
                   <TooltipContent className="max-w-xs text-pretty leading-relaxed">
                     <div className="gap-1 text-xs text-background">
                       Solve a problem once, then revisit it after 1, 3, 7, 14,

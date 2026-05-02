@@ -6,7 +6,13 @@ import reactHooks from "eslint-plugin-react-hooks";
 
 export default tseslint.config(
   {
-    ignores: [".next/**", "dist/**", "node_modules/**", "public/sw.js"],
+    ignores: [
+      ".next/**",
+      "dist/**",
+      "node_modules/**",
+      "public/sw.js",
+      ".open-next/**",
+    ],
   },
   js.configs.recommended,
   ...tseslint.configs.recommended,
